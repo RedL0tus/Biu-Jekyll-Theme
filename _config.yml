@@ -1,15 +1,15 @@
 # Site settings
-title: Your site
+title: Sanho Space
 description: >
-    Your description
-author: Your name
-email: your@e.mail
+    Your description Your description Your description
+author: sanho
+email: kngsnh@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourname.github.io" # the base hostname & protocol for your site
-twitter_username: YourTwitter
-github_username:  YourGitHub
+url: "https://kngsnh.github.io" # the base hostname & protocol for your site
+twitter_username: @bokdukee
+github_username:  kngsnh
 
-disqus_shortname: YourDisqusShortname
+# disqus_shortname: YourDisqusShortname
 
 # Build settings
 include: [_pages]
