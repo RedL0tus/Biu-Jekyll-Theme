@@ -16,12 +16,12 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Noto Sans KR', monospace;
     font-weight: $font-weight;
 }
 
 @mixin ff--code {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Noto Sans KR', monospace;
 }
 
 // Font sizing
